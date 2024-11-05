@@ -17,4 +17,4 @@ The following **required** functionality is completed:
 - [X] The history of translations can be erased
  
 ## Video Walkthrough
-![lab6](https://github.com/user-attachments/assets/abe54393-efe9-48e0-9b4d-543609957483)
+![lab6 2](https://github.com/user-attachments/assets/fba4d2b1-c846-4a5e-b0c6-7e138b43b918)
